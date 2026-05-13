@@ -50,6 +50,4 @@ streamlit run app.py
 
 ---
 
-## 👨‍💻 Author
 
-Harsh Rana
